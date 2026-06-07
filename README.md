@@ -24,7 +24,7 @@ Food insecurity has become an increasing concern in many communities due to risi
 * Annual unduplicated participants
 * Monthly food distribution (lbs)
 * Annual food distribution totals
-* Data period: 2019 – 2025
+* Data period: 2019 - 2025
 
 ### Boston Consumer Price Index (CPI)
 
